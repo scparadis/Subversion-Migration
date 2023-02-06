@@ -1,4 +1,4 @@
-# Subversion-Migration
+# github-final-project
 Hosting people opportunity code project
 
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
