@@ -4,8 +4,8 @@ Hosting people opportunity code project
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
 Input:
-   p, principal amount
-   t, time period in years
-   r, annual rate of interest
+  <br> p, principal amount
+  <br> t, time period in years
+  <br> r, annual rate of interest <br>
 Output
-   simple interest = p*t*r
+  <br> simple interest = p*t*r
